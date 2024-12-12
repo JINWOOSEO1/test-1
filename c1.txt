@@ -1,3 +1,4 @@
 c1
 I modified c1.txt
 I modified c1.txt in git_home
+I modified c1.txt in git_office
